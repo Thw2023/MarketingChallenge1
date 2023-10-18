@@ -32,15 +32,17 @@ Replaced all div with this semantic elements
 # Screen Shot Images
 images\Top.png
 <figure>
-    <img scr="images\Top.png" alt="Top of Page" style="width:100%">
+    <img src="images\Top.png" alt="Top of Page" style="width:100%">
 </figure>
+
 images\Middle.png
 <figure>
-    <img scr="images\Middle.png" alt="Middle of Page" style="width:100%">
+    <img src="images\Middle.png" alt="Middle of Page" style="width:100%">
 </figure>
+
 images\Bottom.png
 <figure>
-    <img scr="images\Bottom.png" alt="Bottom of Page" style="width:100%">
+    <img src="images\Bottom.png" alt="Bottom of Page" style="width:100%">
 </figure>
 
 # Project Reference
