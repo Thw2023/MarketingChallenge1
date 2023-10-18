@@ -30,19 +30,19 @@ Replaced all div with this semantic elements
 <section>
 
 # Screen Shot Images
-images\Top.png
+images\Top.jpg
 <figure>
-    <img src=".assets/images/Top.jpg" alt="Top of Page">
+    <img src=".assets\images/Top.jpg" alt="Top of Page">
 </figure>
 
-images\Middle.png
+images\Middle.jpg
 <figure>
-    <img src=".assets/images/Middle.jpg" alt="Middle of Page">
+    <img src=".assets\images/Middle.jpg" alt="Middle of Page">
 </figure>
 
-images\Bottom.png
+images\Bottom.jpg
 <figure>
-    <img src=".assets/images/Bottom.jpg" alt="Bottom of Page">
+    <img src=".assets\images/Bottom.jpg" alt="Bottom of Page">
 </figure>
 
 # Project Reference
