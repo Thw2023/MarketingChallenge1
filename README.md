@@ -1,3 +1,6 @@
+# Project Title:
+Marketing Challenge
+
 # User story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
@@ -25,3 +28,21 @@ Replaced all div with this semantic elements
 <main>
 <nav>
 <section>
+
+# Screen Shot Images
+images\Top.png
+<figure>
+    <img scr="images\Top.png" alt="Top of Page" style="width:100%">
+</figure>
+images\Middle.png
+<figure>
+    <img scr="images\Middle.png" alt="Middle of Page" style="width:100%">
+</figure>
+images\Bottom.png
+<figure>
+    <img scr="images\Bottom.png" alt="Bottom of Page" style="width:100%">
+</figure>
+
+# Project Reference
+[Deloy Page] <a href="https://thw2023.github.io/MarketingChallenge1/">Marketing Challenge</a>
+[Github page] <a href="https://github.com/Thw2023/MarketingChallenge1.git">Github Page</a>
