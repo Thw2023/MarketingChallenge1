@@ -32,17 +32,17 @@ Replaced all div with this semantic elements
 # Screen Shot Images
 images\Top.png
 <figure>
-    <img src=".assets/images/Top.png" alt="Top of Page">
+    <img src=".assets/images/Top.jpg" alt="Top of Page">
 </figure>
 
 images\Middle.png
 <figure>
-    <img src=".assets/images/Middle.png" alt="Middle of Page">
+    <img src=".assets/images/Middle.jpg" alt="Middle of Page">
 </figure>
 
 images\Bottom.png
 <figure>
-    <img src=".assets/images/Bottom.png" alt="Bottom of Page">
+    <img src=".assets/images/Bottom.jpg" alt="Bottom of Page">
 </figure>
 
 # Project Reference
